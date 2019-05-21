@@ -1,0 +1,2 @@
+[01-Apr-2019 19:06:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/jacehrco/web.jacehr.com/wp-content/themes/company-ui/index.php on line 705
+[04-Apr-2019 15:06:30 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/jacehrco/web.jacehr.com/wp-includes/functions.php on line 265
